@@ -1,4 +1,4 @@
-# [Paper Kit 2 PRO - Premium Bootstrap 4 UI Kit](http://demos.creative-tim.com/paper-kit-2-pro/presentation.html) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
+# [Paper Kit 2 PRO - Premium Bootstrap 4 UI Kit](http://demos.creative-tim.com/paper-kit-2-pro/presentation.html) [![version][version-badge]][CHANGELOG]
 
 ![Paper Kit 2 PRO](https://s3.amazonaws.com/creativetim_bucket/products/60/original/opt_pk2p_thumbnail.jpg?1501180792)
 
@@ -148,4 +148,3 @@ Instagram: <https://instagram.com/creativetimofficial>
 [CHANGELOG]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE.md
 [version-badge]: https://img.shields.io/badge/version-2.0.1-blue.svg
-[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
