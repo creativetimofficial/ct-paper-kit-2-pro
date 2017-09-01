@@ -36,7 +36,7 @@ Paper Kit 2 PRO contains a lot of pages already designed and implemented. The pa
 - [Error Page - 422](http://demos.creative-tim.com/paper-kit-2-pro/examples/422.html)
 - [Error Page - 500](http://demos.creative-tim.com/paper-kit-2-pro/examples/500.html)
 
-Tutorial & Components
+**Tutorial & Components**
 
 Once you download the archive, you will be able find a tutorial page inside it explaining how to start using it. We have also created a page describing every component that you can find it inside the kit, how to use it along with a fully coded examples.
 
