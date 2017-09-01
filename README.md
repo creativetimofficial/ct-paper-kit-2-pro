@@ -47,6 +47,7 @@ You can also check the [documentation online](http://demos.creative-tim.com/pape
 + [Live Preview](http://demos.creative-tim.com/paper-kit-2-pro/presentation.html)
 + [Paper Kit 2](http://demos.creative-tim.com/paper-kit-2/index.html)
 + [Paper Kit Bootstrap 3](http://demos.creative-tim.com/paper-kit)
++ [Paper Kit PRO Bootstrap 3](http://demos.creative-tim.com/paper-kit-pro/presentation.html)
 
 ### What's included
 
