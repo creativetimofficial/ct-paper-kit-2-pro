@@ -2,21 +2,21 @@
 
 ![Paper Kit 2 PRO](https://s3.amazonaws.com/creativetim_bucket/products/60/original/opt_pk2p_thumbnail.jpg?1501180792)
 
-Paper Kit 2 PRO is a premium Bootstrap 4 UI Kit with a huge number of components, sections and example pages. All the components are designed to look great together, following the same design pattern. Any elements that is vital to code a web project is already here, fully coded. All components are fully responsive and look great on every screen size. Transitions, shadows, colors, they all resemble the flow you would have using pieces of paper.
+**[Paper Kit 2 PRO](https://creative-tim.com/live/paper-kit-2-pro)** is a premium Bootstrap 4 UI Kit with a huge number of components, sections and example pages. All the components are designed to look great together, following the same design pattern. Any elements that is vital to code a web project is already here, fully coded. All components are fully responsive and look great on every screen size. Transitions, shadows, colors, they all resemble the flow you would have using pieces of paper.
 
 The idea behind Paper Kit 2 PRO is creating beautiful, playful design. We have created the UI Kit kit having pastel colors and paper in mind. It feels light, fresh and easy to go through. It looks great with illustrations and drawings, but also using images. It features beautiful typography, font icons and thoughtful layouts.
 
-Paper Kit 2 PRO is the extended version of [Paper Kit](https://www.creative-tim.com/product/paper-kit). Based on feedback from people that downloaded and used it, we have added needed components and we have created multiple examples pages. We are curious to see how you
+**[Paper Kit 2 PRO](https://creative-tim.com/live/paper-kit-2-pro)** is the extended version of [Paper Kit](https://www.creative-tim.com/product/paper-kit). Based on feedback from people that downloaded and used it, we have added needed components and we have created multiple examples pages. We are curious to see how you
 want to use it and also improve it, so let us know any feedback you have.
 
 
 **Bootstrap 4 support**
 
-Paper Kit PRO is built on top of Bootstrap 4, so it fully supports it. Most of the elements from the framework are re-designed to resemble sheets of paper and color pastels. If the are elements that we have not touched, they will gracefully fall back to the Bootstrap 4 default.
+**[Paper Kit 2 PRO](https://creative-tim.com/live/paper-kit-2-pro)** is built on top of Bootstrap 4, so it fully supports it. Most of the elements from the framework are re-designed to resemble sheets of paper and color pastels. If the are elements that we have not touched, they will gracefully fall back to the Bootstrap 4 default.
 
 **Examples**
 
-Paper Kit 2 PRO contains a lot of pages already designed and implemented. The pages are created for basic flows like registering, building a profile, adding and searching for products. Either you are building a blog or an e-commerce, the examples can help you jump start it. Here is the list with the pages available. We are also working on more example pages, that you will be able to access no matter the version you download.
+**[Paper Kit 2 PRO](https://creative-tim.com/live/paper-kit-2-pro)** contains a lot of pages already designed and implemented. The pages are created for basic flows like registering, building a profile, adding and searching for products. Either you are building a blog or an e-commerce, the examples can help you jump start it. Here is the list with the pages available. We are also working on more example pages, that you will be able to access no matter the version you download.
 
 
 - [About Us](http://demos.creative-tim.com/paper-kit-2-pro/examples/about-us.html)
@@ -148,4 +148,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 [CHANGELOG]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE.md
-[version-badge]: https://img.shields.io/badge/version-2.0.1-blue.svg
+[version-badge]: https://img.shields.io/badge/version-2.2.0-blue.svg
