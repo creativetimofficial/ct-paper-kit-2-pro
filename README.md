@@ -121,7 +121,7 @@ paper-kit-2-pro
 
 ### License
 
-- Copyright 2017 Creative Tim (http://www.creative-tim.com)
+- Copyright 2018 Creative Tim (http://www.creative-tim.com)
 
 
 ## Useful Links
