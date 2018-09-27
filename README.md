@@ -40,7 +40,7 @@ want to use it and also improve it, so let us know any feedback you have.
 
 Once you download the archive, you will be able find a tutorial page inside it explaining how to start using it. We have also created a page describing every component that you can find it inside the kit, how to use it along with a fully coded examples.
 
-You can also check the [documentation online](http://demos.creative-tim.com/paper-kit-2-pro/documentation/tutorial-components.html).
+You can also check the [documentation online](https://demos.creative-tim.com/paper-kit-2-pro/docs/1.0/getting-started/introduction.html).
 
 ## Links:
 
