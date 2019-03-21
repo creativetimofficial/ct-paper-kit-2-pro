@@ -31,7 +31,7 @@ want to use it and also improve it, so let us know any feedback you have.
 
 
 | HTML | Angular |
-| --- | --- | ---  |
+| --- | --- |
 | [![Paper Kit  HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-pro-html/opt_pk2p_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2-pro)  | [![Paper Kit  Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-pro-angular/opt_pk2p_angular_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2-pro-angular)  
 
 ## Demo
