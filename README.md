@@ -60,7 +60,7 @@ We've also included an optional Gulp file to help you get started with theme cus
 6.  Run in terminal `gulp open-app` for opening the Presentation Page (default) of the product.
 
 ## Documentation
-The documentation for the Material Kit is hosted at our [website](https://demos.creative-tim.com/material-kit/docs/2.1/getting-started/introduction.html).
+The documentation for the Paper Kit 2 PRO is hosted at our [website](https://demos.creative-tim.com/paper-kit-2-pro/docs/1.0/getting-started/introduction.html).
 
 
 ## File Structure
