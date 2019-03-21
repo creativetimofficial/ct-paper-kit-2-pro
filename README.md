@@ -42,7 +42,7 @@ want to use it and also improve it, so let us know any feedback you have.
 
 | Register Page | Landing Page | Profile Page  |
 | --- | --- | ---  |
-| [![Register Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-pro-html/register-page.png)](https://demos.creative-tim.com/paper-kit-2-pro/examples/register-page.html)  | [![Landing Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-pro-html/landing-page.png)](https://demos.creative-tim.com/paper-kit-2-pro/examples/landing-page.html)  | [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-pro-html/profile-page.png)](https://demos.creative-tim.com/material-kit/examples/profile-page.html)  
+| [![Register Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-pro-html/register-page.png)](https://demos.creative-tim.com/paper-kit-2-pro/examples/register-page.html)  | [![Landing Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-pro-html/landing-page.png)](https://demos.creative-tim.com/paper-kit-2-pro/examples/landing-page.html)  | [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-2-pro-html/profile-page.png)](https://demos.creative-tim.com/paper-kit-2-pro/examples/profile-page.html)  
 
 [View More](https://demos.creative-tim.com/paper-kit-2-pro/presentation.html)
 
